@@ -165,7 +165,7 @@ a:not([href]):not([tabindex]) {
     padding-top: 32px;
 }
 .details {
-    font-size: 1.6rem;
+    font-size: 1.1rem;
     display: none;
     color: #637484;
     line-height: 1.75;
