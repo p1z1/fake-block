@@ -222,7 +222,7 @@ a[href].btn, a[href].btn:focus, a[href].btn:hover, a[href].btn:active {
     height: auto;
     padding: 0 40px 0 0;
     font-family: 'MetropolisMedium', sans-serif !important;
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     border-radius: 2px;
     color: #fff;
     text-align: left;
@@ -279,7 +279,7 @@ a[href].btn, a[href].btn:focus, a[href].btn:hover, a[href].btn:active {
     text-align: left;
     color: #3D4852;
     border-radius: 4px;
-    font: 400 1.3rem/1.3 'MetropolisRegular' ,sans-serif;
+    font: 400 1.2rem/1.3 'MetropolisRegular' ,sans-serif;
     margin: 0;
     width: 100%;
     background-color: #fff;
@@ -315,7 +315,7 @@ a[href].btn, a[href].btn:focus, a[href].btn:hover, a[href].btn:active {
     background-color: #F2F9FF;
   }
   .dropdown-menu li {
-    font: 400 1.1rem/1.5 'MetropolisRegular' ,sans-serif;
+    font: 400 1.0rem/1.5 'MetropolisRegular' ,sans-serif;
     text-align: left;
     padding: 15px 16px 0px 16px;
     cursor: pointer;
