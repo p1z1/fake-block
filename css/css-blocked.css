@@ -76,14 +76,14 @@ body {
 }
 
 h1 {
-    font-size: 2.0rem;
+    font-size: 1.8rem;
     line-height: 1.5;
     font-family: 'MetropolisSemiBold', sans-serif;
     color: #171b1f;
 }
 
 h2 {
-    font: 400 1.2rem/1.78 'MetropolisRegular', sans-serif;
+    font: 400 1.1rem/1.78 'MetropolisRegular', sans-serif;
     color: #3d4852;
     margin-top: 6px;
 }
