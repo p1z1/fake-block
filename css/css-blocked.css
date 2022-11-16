@@ -131,7 +131,7 @@ a:not([href]):not([tabindex]) {
 .details-heading {
     color: #171b1f;
     margin-bottom: 8px;
-    font: 400 1.8rem/1.78 'MetropolisMedium', sans-serif;
+    font: 400 0.9rem/1.78 'MetropolisMedium', sans-serif;
 }
 .blocked-page .ask-permission {
     text-decoration: none;
