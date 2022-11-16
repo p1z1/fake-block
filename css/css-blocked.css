@@ -90,7 +90,7 @@ h2 {
 .schlblockMessage {
     padding-top: 14px;
     padding-bottom: 64px;
-    font: 400 1.8rem/1.78 'MetropolisRegular', sans-serif;
+    font: 400 1.5rem/1.78 'MetropolisRegular', sans-serif;
     color: #3d4852;
 }
 a:not([href]):not([tabindex]) {
